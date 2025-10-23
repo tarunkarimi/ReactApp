@@ -1,8 +1,17 @@
-After downloading the Zip file from the given github link, 
-extract the files first. 
-then open VS code and open this extracted folder.
-open the new terminal and type this command - " cd ReactApp-main " and press enter.
-then after run this - " npm install " and press enter.
-which will install all the dependencies and the packages.
-then type this - " npm run dev " and plus enter.
-this gives you a localhost link and copy the link and paste it in the browser to open the reactapp.
+## ⚙️ Setup & Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/tarunkarimi/MyPortFolio.git
+cd MyPortFolio
+```
+
+2. **Install dependencies**
+ ```bash
+npm install
+```
+
+3. **Start the development server**
+ ```bash
+npm run dev
+```
