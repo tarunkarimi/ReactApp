@@ -2,8 +2,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/tarunkarimi/MyPortFolio.git
-cd MyPortFolio
+git clone https://github.com/tarunkarimi/ReactApp.git
 ```
 
 2. **Install dependencies**
